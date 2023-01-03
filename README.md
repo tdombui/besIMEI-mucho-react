@@ -15,3 +15,5 @@ IMEIer is a single-page application that can be used to check the details and sp
   - TMobile Status
   - Verizon Status
   - IMEI history
+
+Data provided by PrologMobile API: https://www.prologmobile.com/
