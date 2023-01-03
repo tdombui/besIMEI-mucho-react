@@ -1,4 +1,4 @@
-IMEIer is a single-page application for the Web that can be used to check the details and specifications of any mobile device or phone. With this app the user can check the following:
+IMEIer is a single-page application that can be used to check the details and specifications of any mobile device or phone. With this app the user can check the following:
   - BLOCKLIST status
   - Manufacturer
   - Make
