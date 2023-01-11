@@ -11,9 +11,7 @@ IMEIer is a single-page application that can be used to check the details and sp
   - SIM lock
   - FMIP (Apple only)
   - Country of Origin (COO)
-  - ATT Status
-  - TMobile Status
-  - Verizon Status
+  - ATT Status, T-Mobile Status, Verizon Status
   - IMEI history
 
-API courtesy of PrologMobile API: https://www.prologmobile.com/
+API courtesy of PrologMobile: https://www.prologmobile.com/
