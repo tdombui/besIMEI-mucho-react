@@ -16,4 +16,4 @@ IMEIer is a single-page application that can be used to check the details and sp
   - Verizon Status
   - IMEI history
 
-Data provided by PrologMobile API: https://www.prologmobile.com/
+API courtesy of PrologMobile API: https://www.prologmobile.com/
