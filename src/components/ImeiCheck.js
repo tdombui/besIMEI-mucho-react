@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 const cors = require('cors')
 
-const prologAPIKey = 'bm4c7d16-d28a-4d65-b9ee-8bfb88f4005f'
+const prologAPIKey = 'API_KEY'
 const ImeiCheck = () => {
     // Declare state vars to store the inputs
     const [data, setData] = useState([])
