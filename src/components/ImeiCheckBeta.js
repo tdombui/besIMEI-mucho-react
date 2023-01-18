@@ -104,7 +104,7 @@
 //         e.preventDefault();
 
 //         // Send the POST request method to the API
-//         // const apiKey = process.env.bm4c7d16-d28a-4d65-b9ee-8bfb88f4005f
+//         // const apiKey = process.env.API_KEY
 //         const res = await fetch(`https://api.prologmobile.com/api?key=${this.prologAPIKey}&version=2.0&service=5060&imei=${imei}`, {
 //             method: 'GET',
 //             headers: {
@@ -150,7 +150,7 @@
 /*
 class Prolog (
   constructor() {
-    this.prologAPIKey = 'bm4c7d16-d28a-4d65-b9ee-8bfb88f4005f';
+    this.prologAPIKey = 'API_KEY';
     this.imei = imei;
   }
   async getIMEI(imei) {
@@ -162,5 +162,5 @@ class Prolog (
   }
 ) 
 
-// Example file output format = 'order_3105565-imei_354937823487'
+// Example file output format = 'order_3105565-imei_354565623696'
 */
