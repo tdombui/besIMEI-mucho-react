@@ -33,7 +33,7 @@ const ImeiCheck = () => {
     // const fetchData = async() => {
     //     const response = await axios.get(`https://api.prologmobile.com/api?key=${prologAPIKey}&version=2.0&service=5060&imei=${imei}`,
     //     // {headers: {
-    //     //     'prologAPIKey': 'bm4c7d16-d28a-4d65-b9ee-8bfb88f4005f'
+    //     //     'prologAPIKey': 'API_KEY'
     //     // }}
     //     )
 
