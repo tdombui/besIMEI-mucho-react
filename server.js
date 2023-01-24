@@ -4,7 +4,7 @@ const cors = require('cors');
 app.use(express.json());
 app.use(express.static('public'))
 
-// Enable CORS for all routes
+// Enable CORS for all routes - SANDBOX ONLY
 app.use(
     cors({
         origin: '*'
@@ -37,7 +37,7 @@ const ImeiCheck = () => {
             })
     }
 
-    const port = 8000;
+    const port = PORT_VALUE;
 app.listen(port, () => {
     console(`Server is running on http:localhost:${port}`)
 })
